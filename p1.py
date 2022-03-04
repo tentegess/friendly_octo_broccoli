@@ -1,2 +1,2 @@
 print('test czy git działa')
-print('chyba nie działa')
+print('chyba jednak działa')
